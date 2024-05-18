@@ -1,0 +1,267 @@
+StartDate,Home,Away,Result,Club,EndDate,Duration [days],Duration [hours]
+2023-08-13 17:30:00,FC Chelsea,Liverpool FC,1:1,Liverpool FC,2023-08-19 16:00:00,5 days 22:30:00,142.5
+2023-08-19 16:00:00,Liverpool FC,AFC Bournemouth,3:1,Liverpool FC,2023-08-27 17:30:00,8 days 01:30:00,193.5
+2023-08-27 17:30:00,Newcastle United,Liverpool FC,1:2,Liverpool FC,2023-09-03 15:00:00,6 days 21:30:00,165.5
+2023-09-03 15:00:00,Liverpool FC,Aston Villa,3:0,Liverpool FC,2023-09-16 13:30:00,12 days 22:30:00,310.5
+2023-09-16 13:30:00,Wolverhampton Wanderers,Liverpool FC,1:3,Liverpool FC,2023-09-24 15:00:00,8 days 01:30:00,193.5
+2023-09-24 15:00:00,Liverpool FC,West Ham United,3:1,Liverpool FC,2023-09-30 18:30:00,6 days 03:30:00,147.5
+2023-09-30 18:30:00,Tottenham Hotspur,Liverpool FC,2:1,Liverpool FC,2023-10-08 15:00:00,7 days 20:30:00,188.5
+2023-10-08 15:00:00,Brighton and Hove Albion,Liverpool FC,2:2,Liverpool FC,2023-10-21 13:30:00,12 days 22:30:00,310.5
+2023-10-21 13:30:00,Liverpool FC,FC Everton,2:0,Liverpool FC,2023-10-29 15:00:00,8 days 01:30:00,193.5
+2023-10-29 15:00:00,Liverpool FC,Nottingham Forest,3:0,Liverpool FC,2023-11-05 17:30:00,7 days 02:30:00,170.5
+2023-11-05 17:30:00,Luton Town,Liverpool FC,1:1,Liverpool FC,2023-11-12 15:00:00,6 days 21:30:00,165.5
+2023-11-12 15:00:00,Liverpool FC,Brentford FC,3:0,Liverpool FC,2023-11-25 13:30:00,12 days 22:30:00,310.5
+2023-11-25 13:30:00,Manchester City,Liverpool FC,1:1,Liverpool FC,2023-12-03 15:00:00,8 days 01:30:00,193.5
+2023-12-03 15:00:00,Liverpool FC,FC Fulham,4:3,Liverpool FC,2023-12-06 20:30:00,3 days 05:30:00,77.5
+2023-12-06 20:30:00,Sheffield United,Liverpool FC,0:2,Liverpool FC,2023-12-09 13:30:00,2 days 17:00:00,65.0
+2023-12-09 13:30:00,Crystal Palace,Liverpool FC,1:2,Liverpool FC,2023-12-17 17:30:00,8 days 04:00:00,196.0
+2023-12-17 17:30:00,Liverpool FC,Manchester United,0:0,Liverpool FC,2023-12-23 18:30:00,6 days 01:00:00,145.0
+2023-12-23 18:30:00,Liverpool FC,FC Arsenal,1:1,Liverpool FC,2023-12-26 18:30:00,3 days 00:00:00,72.0
+2023-12-26 18:30:00,FC Burnley,Liverpool FC,0:2,Liverpool FC,2024-01-01 21:00:00,6 days 02:30:00,146.5
+2024-01-01 21:00:00,Liverpool FC,Newcastle United,4:2,Liverpool FC,2024-01-21 17:30:00,19 days 20:30:00,476.5
+2024-01-21 17:30:00,AFC Bournemouth,Liverpool FC,0:4,Liverpool FC,2024-01-31 21:15:00,10 days 03:45:00,243.75
+2024-01-31 21:15:00,Liverpool FC,FC Chelsea,4:1,Liverpool FC,2024-02-04 17:30:00,3 days 20:15:00,92.25
+2024-02-04 17:30:00,FC Arsenal,Liverpool FC,3:1,Liverpool FC,2024-02-10 16:00:00,5 days 22:30:00,142.5
+2024-02-10 16:00:00,Liverpool FC,FC Burnley,3:1,Liverpool FC,2024-02-17 13:30:00,6 days 21:30:00,165.5
+2024-02-17 13:30:00,Brentford FC,Liverpool FC,1:4,Liverpool FC,2024-02-21 20:30:00,4 days 07:00:00,103.0
+2024-02-21 20:30:00,Liverpool FC,Luton Town,4:1,Liverpool FC,2024-03-02 16:00:00,9 days 19:30:00,235.5
+2024-03-02 16:00:00,Nottingham Forest,Liverpool FC,0:1,Liverpool FC,2024-03-10 16:45:00,8 days 00:45:00,192.75
+2024-03-10 16:45:00,Liverpool FC,Manchester City,1:1,Liverpool FC,2024-03-31 15:00:00,20 days 22:15:00,502.25
+2024-03-31 15:00:00,Liverpool FC,Brighton and Hove Albion,2:1,Liverpool FC,2024-04-04 20:30:00,4 days 05:30:00,101.5
+2024-04-04 20:30:00,Liverpool FC,Sheffield United,3:1,Liverpool FC,2024-04-07 16:30:00,2 days 20:00:00,68.0
+2024-04-07 16:30:00,Manchester United,Liverpool FC,2:2,Liverpool FC,2024-04-14 15:00:00,6 days 22:30:00,166.5
+2024-04-14 15:00:00,Liverpool FC,Crystal Palace,0:1,Liverpool FC,2024-04-21 17:30:00,7 days 02:30:00,170.5
+2024-04-21 17:30:00,FC Fulham,Liverpool FC,1:3,Liverpool FC,2024-04-24 21:00:00,3 days 03:30:00,75.5
+2024-04-24 21:00:00,FC Everton,Liverpool FC,2:0,Liverpool FC,2024-04-27 13:30:00,2 days 16:30:00,64.5
+2024-04-27 13:30:00,West Ham United,Liverpool FC,2:2,Liverpool FC,2024-05-05 17:30:00,8 days 04:00:00,196.0
+2024-05-05 17:30:00,Liverpool FC,Tottenham Hotspur,4:2,Liverpool FC,2024-05-13 21:00:00,8 days 03:30:00,195.5
+2024-05-13 21:00:00,Aston Villa,Liverpool FC,3:3,Liverpool FC,2024-05-19 17:00:00,5 days 20:00:00,140.0
+2024-05-19 17:00:00,Liverpool FC,Wolverhampton Wanderers,-:-,Liverpool FC,,,
+2023-08-12 14:00:00,FC Arsenal,Nottingham Forest,2:1,FC Arsenal,2023-08-21 21:00:00,9 days 07:00:00,223.0
+2023-08-21 21:00:00,Crystal Palace,FC Arsenal,0:1,FC Arsenal,2023-08-26 16:00:00,4 days 19:00:00,115.0
+2023-08-26 16:00:00,FC Arsenal,FC Fulham,2:2,FC Arsenal,2023-09-03 17:30:00,8 days 01:30:00,193.5
+2023-09-03 17:30:00,FC Arsenal,Manchester United,3:1,FC Arsenal,2023-09-17 17:30:00,14 days 00:00:00,336.0
+2023-09-17 17:30:00,FC Everton,FC Arsenal,0:1,FC Arsenal,2023-09-24 15:00:00,6 days 21:30:00,165.5
+2023-09-24 15:00:00,FC Arsenal,Tottenham Hotspur,2:2,FC Arsenal,2023-09-30 16:00:00,6 days 01:00:00,145.0
+2023-09-30 16:00:00,AFC Bournemouth,FC Arsenal,0:4,FC Arsenal,2023-10-08 17:30:00,8 days 01:30:00,193.5
+2023-10-08 17:30:00,FC Arsenal,Manchester City,1:0,FC Arsenal,2023-10-21 18:30:00,13 days 01:00:00,313.0
+2023-10-21 18:30:00,FC Chelsea,FC Arsenal,2:2,FC Arsenal,2023-10-28 16:00:00,6 days 21:30:00,165.5
+2023-10-28 16:00:00,FC Arsenal,Sheffield United,5:0,FC Arsenal,2023-11-04 18:30:00,7 days 02:30:00,170.5
+2023-11-04 18:30:00,Newcastle United,FC Arsenal,1:0,FC Arsenal,2023-11-11 16:00:00,6 days 21:30:00,165.5
+2023-11-11 16:00:00,FC Arsenal,FC Burnley,3:1,FC Arsenal,2023-11-25 18:30:00,14 days 02:30:00,338.5
+2023-11-25 18:30:00,Brentford FC,FC Arsenal,0:1,FC Arsenal,2023-12-02 16:00:00,6 days 21:30:00,165.5
+2023-12-02 16:00:00,FC Arsenal,Wolverhampton Wanderers,2:1,FC Arsenal,2023-12-05 21:15:00,3 days 05:15:00,77.25
+2023-12-05 21:15:00,Luton Town,FC Arsenal,3:4,FC Arsenal,2023-12-09 18:30:00,3 days 21:15:00,93.25
+2023-12-09 18:30:00,Aston Villa,FC Arsenal,1:0,FC Arsenal,2023-12-17 15:00:00,7 days 20:30:00,188.5
+2023-12-17 15:00:00,FC Arsenal,Brighton and Hove Albion,2:0,FC Arsenal,2023-12-23 18:30:00,6 days 03:30:00,147.5
+2023-12-23 18:30:00,Liverpool FC,FC Arsenal,1:1,FC Arsenal,2023-12-28 21:15:00,5 days 02:45:00,122.75
+2023-12-28 21:15:00,FC Arsenal,West Ham United,0:2,FC Arsenal,2023-12-31 15:00:00,2 days 17:45:00,65.75
+2023-12-31 15:00:00,FC Fulham,FC Arsenal,2:1,FC Arsenal,2024-01-20 13:30:00,19 days 22:30:00,478.5
+2024-01-20 13:30:00,FC Arsenal,Crystal Palace,5:0,FC Arsenal,2024-01-30 20:30:00,10 days 07:00:00,247.0
+2024-01-30 20:30:00,Nottingham Forest,FC Arsenal,1:2,FC Arsenal,2024-02-04 17:30:00,4 days 21:00:00,117.0
+2024-02-04 17:30:00,FC Arsenal,Liverpool FC,3:1,FC Arsenal,2024-02-11 15:00:00,6 days 21:30:00,165.5
+2024-02-11 15:00:00,West Ham United,FC Arsenal,0:6,FC Arsenal,2024-02-17 16:00:00,6 days 01:00:00,145.0
+2024-02-17 16:00:00,FC Burnley,FC Arsenal,0:5,FC Arsenal,2024-02-24 21:00:00,7 days 05:00:00,173.0
+2024-02-24 21:00:00,FC Arsenal,Newcastle United,4:1,FC Arsenal,2024-03-04 21:00:00,9 days 00:00:00,216.0
+2024-03-04 21:00:00,Sheffield United,FC Arsenal,0:6,FC Arsenal,2024-03-09 18:30:00,4 days 21:30:00,117.5
+2024-03-09 18:30:00,FC Arsenal,Brentford FC,2:1,FC Arsenal,2024-03-31 17:30:00,21 days 23:00:00,527.0
+2024-03-31 17:30:00,Manchester City,FC Arsenal,0:0,FC Arsenal,2024-04-03 20:30:00,3 days 03:00:00,75.0
+2024-04-03 20:30:00,FC Arsenal,Luton Town,2:0,FC Arsenal,2024-04-06 18:30:00,2 days 22:00:00,70.0
+2024-04-06 18:30:00,Brighton and Hove Albion,FC Arsenal,0:3,FC Arsenal,2024-04-14 17:30:00,7 days 23:00:00,191.0
+2024-04-14 17:30:00,FC Arsenal,Aston Villa,0:2,FC Arsenal,2024-04-20 20:30:00,6 days 03:00:00,147.0
+2024-04-20 20:30:00,Wolverhampton Wanderers,FC Arsenal,0:2,FC Arsenal,2024-04-23 21:00:00,3 days 00:30:00,72.5
+2024-04-23 21:00:00,FC Arsenal,FC Chelsea,5:0,FC Arsenal,2024-04-28 15:00:00,4 days 18:00:00,114.0
+2024-04-28 15:00:00,Tottenham Hotspur,FC Arsenal,2:3,FC Arsenal,2024-05-04 13:30:00,5 days 22:30:00,142.5
+2024-05-04 13:30:00,FC Arsenal,AFC Bournemouth,3:0,FC Arsenal,2024-05-12 17:30:00,8 days 04:00:00,196.0
+2024-05-12 17:30:00,Manchester United,FC Arsenal,0:1,FC Arsenal,2024-05-19 17:00:00,6 days 23:30:00,167.5
+2024-05-19 17:00:00,FC Arsenal,FC Everton,-:-,FC Arsenal,,,
+2023-08-11 21:00:00,FC Burnley,Manchester City,0:3,Manchester City,2023-08-19 21:00:00,8 days 00:00:00,192.0
+2023-08-19 21:00:00,Manchester City,Newcastle United,1:0,Manchester City,2023-08-27 15:00:00,7 days 18:00:00,186.0
+2023-08-27 15:00:00,Sheffield United,Manchester City,1:2,Manchester City,2023-09-02 16:00:00,6 days 01:00:00,145.0
+2023-09-02 16:00:00,Manchester City,FC Fulham,5:1,Manchester City,2023-09-16 16:00:00,14 days 00:00:00,336.0
+2023-09-16 16:00:00,West Ham United,Manchester City,1:3,Manchester City,2023-09-23 16:00:00,7 days 00:00:00,168.0
+2023-09-23 16:00:00,Manchester City,Nottingham Forest,2:0,Manchester City,2023-09-30 16:00:00,7 days 00:00:00,168.0
+2023-09-30 16:00:00,Wolverhampton Wanderers,Manchester City,2:1,Manchester City,2023-10-08 17:30:00,8 days 01:30:00,193.5
+2023-10-08 17:30:00,FC Arsenal,Manchester City,1:0,Manchester City,2023-10-21 16:00:00,12 days 22:30:00,310.5
+2023-10-21 16:00:00,Manchester City,Brighton and Hove Albion,2:1,Manchester City,2023-10-29 16:30:00,8 days 00:30:00,192.5
+2023-10-29 16:30:00,Manchester United,Manchester City,0:3,Manchester City,2023-11-04 16:00:00,5 days 23:30:00,143.5
+2023-11-04 16:00:00,Manchester City,AFC Bournemouth,6:1,Manchester City,2023-11-12 17:30:00,8 days 01:30:00,193.5
+2023-11-12 17:30:00,FC Chelsea,Manchester City,4:4,Manchester City,2023-11-25 13:30:00,12 days 20:00:00,308.0
+2023-11-25 13:30:00,Manchester City,Liverpool FC,1:1,Manchester City,2023-12-03 17:30:00,8 days 04:00:00,196.0
+2023-12-03 17:30:00,Manchester City,Tottenham Hotspur,3:3,Manchester City,2023-12-06 21:15:00,3 days 03:45:00,75.75
+2023-12-06 21:15:00,Aston Villa,Manchester City,1:0,Manchester City,2023-12-10 15:00:00,3 days 17:45:00,89.75
+2023-12-10 15:00:00,Luton Town,Manchester City,1:2,Manchester City,2023-12-16 16:00:00,6 days 01:00:00,145.0
+2023-12-16 16:00:00,Manchester City,Crystal Palace,2:2,Manchester City,2023-12-27 21:15:00,11 days 05:15:00,269.25
+2023-12-27 21:15:00,FC Everton,Manchester City,1:3,Manchester City,2023-12-30 16:00:00,2 days 18:45:00,66.75
+2023-12-30 16:00:00,Manchester City,Sheffield United,2:0,Manchester City,2024-01-13 18:30:00,14 days 02:30:00,338.5
+2024-01-13 18:30:00,Newcastle United,Manchester City,2:3,Manchester City,2024-01-31 20:30:00,18 days 02:00:00,434.0
+2024-01-31 20:30:00,Manchester City,FC Burnley,3:1,Manchester City,2024-02-05 21:00:00,5 days 00:30:00,120.5
+2024-02-05 21:00:00,Brentford FC,Manchester City,1:3,Manchester City,2024-02-10 13:30:00,4 days 16:30:00,112.5
+2024-02-10 13:30:00,Manchester City,FC Everton,2:0,Manchester City,2024-02-17 18:30:00,7 days 05:00:00,173.0
+2024-02-17 18:30:00,Manchester City,FC Chelsea,1:1,Manchester City,2024-02-20 20:30:00,3 days 02:00:00,74.0
+2024-02-20 20:30:00,Manchester City,Brentford FC,1:0,Manchester City,2024-02-24 18:30:00,3 days 22:00:00,94.0
+2024-02-24 18:30:00,AFC Bournemouth,Manchester City,0:1,Manchester City,2024-03-03 16:30:00,7 days 22:00:00,190.0
+2024-03-03 16:30:00,Manchester City,Manchester United,3:1,Manchester City,2024-03-10 16:45:00,7 days 00:15:00,168.25
+2024-03-10 16:45:00,Liverpool FC,Manchester City,1:1,Manchester City,2024-03-31 17:30:00,21 days 00:45:00,504.75
+2024-03-31 17:30:00,Manchester City,FC Arsenal,0:0,Manchester City,2024-04-03 21:15:00,3 days 03:45:00,75.75
+2024-04-03 21:15:00,Manchester City,Aston Villa,4:1,Manchester City,2024-04-06 13:30:00,2 days 16:15:00,64.25
+2024-04-06 13:30:00,Crystal Palace,Manchester City,2:4,Manchester City,2024-04-13 16:00:00,7 days 02:30:00,170.5
+2024-04-13 16:00:00,Manchester City,Luton Town,5:1,Manchester City,2024-04-25 21:00:00,12 days 05:00:00,293.0
+2024-04-25 21:00:00,Brighton and Hove Albion,Manchester City,0:4,Manchester City,2024-04-28 17:30:00,2 days 20:30:00,68.5
+2024-04-28 17:30:00,Nottingham Forest,Manchester City,0:2,Manchester City,2024-05-04 18:30:00,6 days 01:00:00,145.0
+2024-05-04 18:30:00,Manchester City,Wolverhampton Wanderers,5:1,Manchester City,2024-05-11 13:30:00,6 days 19:00:00,163.0
+2024-05-11 13:30:00,FC Fulham,Manchester City,0:4,Manchester City,2024-05-14 21:00:00,3 days 07:30:00,79.5
+2024-05-14 21:00:00,Tottenham Hotspur,Manchester City,0:2,Manchester City,2024-05-19 17:00:00,4 days 20:00:00,116.0
+2024-05-19 17:00:00,Manchester City,West Ham United,-:-,Manchester City,,,
+2023-08-12 18:30:00,Newcastle United,Aston Villa,5:1,Aston Villa,2023-08-20 15:00:00,7 days 20:30:00,188.5
+2023-08-20 15:00:00,Aston Villa,FC Everton,4:0,Aston Villa,2023-08-27 15:00:00,7 days 00:00:00,168.0
+2023-08-27 15:00:00,FC Burnley,Aston Villa,1:3,Aston Villa,2023-09-03 15:00:00,7 days 00:00:00,168.0
+2023-09-03 15:00:00,Liverpool FC,Aston Villa,3:0,Aston Villa,2023-09-16 16:00:00,13 days 01:00:00,313.0
+2023-09-16 16:00:00,Aston Villa,Crystal Palace,3:1,Aston Villa,2023-09-24 15:00:00,7 days 23:00:00,191.0
+2023-09-24 15:00:00,FC Chelsea,Aston Villa,0:1,Aston Villa,2023-09-30 13:30:00,5 days 22:30:00,142.5
+2023-09-30 13:30:00,Aston Villa,Brighton and Hove Albion,6:1,Aston Villa,2023-10-08 15:00:00,8 days 01:30:00,193.5
+2023-10-08 15:00:00,Wolverhampton Wanderers,Aston Villa,1:1,Aston Villa,2023-10-22 17:30:00,14 days 02:30:00,338.5
+2023-10-22 17:30:00,Aston Villa,West Ham United,4:1,Aston Villa,2023-10-29 15:00:00,6 days 21:30:00,165.5
+2023-10-29 15:00:00,Aston Villa,Luton Town,3:1,Aston Villa,2023-11-05 15:00:00,7 days 00:00:00,168.0
+2023-11-05 15:00:00,Nottingham Forest,Aston Villa,2:0,Aston Villa,2023-11-12 15:00:00,7 days 00:00:00,168.0
+2023-11-12 15:00:00,Aston Villa,FC Fulham,3:1,Aston Villa,2023-11-26 15:00:00,14 days 00:00:00,336.0
+2023-11-26 15:00:00,Tottenham Hotspur,Aston Villa,1:2,Aston Villa,2023-12-03 15:00:00,7 days 00:00:00,168.0
+2023-12-03 15:00:00,AFC Bournemouth,Aston Villa,2:2,Aston Villa,2023-12-06 21:15:00,3 days 06:15:00,78.25
+2023-12-06 21:15:00,Aston Villa,Manchester City,1:0,Aston Villa,2023-12-09 18:30:00,2 days 21:15:00,69.25
+2023-12-09 18:30:00,Aston Villa,FC Arsenal,1:0,Aston Villa,2023-12-17 15:00:00,7 days 20:30:00,188.5
+2023-12-17 15:00:00,Brentford FC,Aston Villa,1:2,Aston Villa,2023-12-22 21:00:00,5 days 06:00:00,126.0
+2023-12-22 21:00:00,Aston Villa,Sheffield United,1:1,Aston Villa,2023-12-26 21:00:00,4 days 00:00:00,96.0
+2023-12-26 21:00:00,Manchester United,Aston Villa,3:2,Aston Villa,2023-12-30 16:00:00,3 days 19:00:00,91.0
+2023-12-30 16:00:00,Aston Villa,FC Burnley,3:2,Aston Villa,2024-01-14 15:00:00,14 days 23:00:00,359.0
+2024-01-14 15:00:00,FC Everton,Aston Villa,0:0,Aston Villa,2024-01-30 21:15:00,16 days 06:15:00,390.25
+2024-01-30 21:15:00,Aston Villa,Newcastle United,1:3,Aston Villa,2024-02-03 18:30:00,3 days 21:15:00,93.25
+2024-02-03 18:30:00,Sheffield United,Aston Villa,0:5,Aston Villa,2024-02-11 17:30:00,7 days 23:00:00,191.0
+2024-02-11 17:30:00,Aston Villa,Manchester United,1:2,Aston Villa,2024-02-17 16:00:00,5 days 22:30:00,142.5
+2024-02-17 16:00:00,FC Fulham,Aston Villa,1:2,Aston Villa,2024-02-24 16:00:00,7 days 00:00:00,168.0
+2024-02-24 16:00:00,Aston Villa,Nottingham Forest,4:2,Aston Villa,2024-03-02 18:30:00,7 days 02:30:00,170.5
+2024-03-02 18:30:00,Luton Town,Aston Villa,2:3,Aston Villa,2024-03-10 14:00:00,7 days 19:30:00,187.5
+2024-03-10 14:00:00,Aston Villa,Tottenham Hotspur,0:4,Aston Villa,2024-03-17 15:00:00,7 days 01:00:00,169.0
+2024-03-17 15:00:00,West Ham United,Aston Villa,1:1,Aston Villa,2024-03-30 18:30:00,13 days 03:30:00,315.5
+2024-03-30 18:30:00,Aston Villa,Wolverhampton Wanderers,2:0,Aston Villa,2024-04-03 21:15:00,4 days 02:45:00,98.75
+2024-04-03 21:15:00,Manchester City,Aston Villa,4:1,Aston Villa,2024-04-06 16:00:00,2 days 18:45:00,66.75
+2024-04-06 16:00:00,Aston Villa,Brentford FC,3:3,Aston Villa,2024-04-14 17:30:00,8 days 01:30:00,193.5
+2024-04-14 17:30:00,FC Arsenal,Aston Villa,0:2,Aston Villa,2024-04-21 16:00:00,6 days 22:30:00,166.5
+2024-04-21 16:00:00,Aston Villa,AFC Bournemouth,3:1,Aston Villa,2024-04-27 21:00:00,6 days 05:00:00,149.0
+2024-04-27 21:00:00,Aston Villa,FC Chelsea,2:2,Aston Villa,2024-05-05 15:00:00,7 days 18:00:00,186.0
+2024-05-05 15:00:00,Brighton and Hove Albion,Aston Villa,1:0,Aston Villa,2024-05-13 21:00:00,8 days 06:00:00,198.0
+2024-05-13 21:00:00,Aston Villa,Liverpool FC,3:3,Aston Villa,2024-05-19 17:00:00,5 days 20:00:00,140.0
+2024-05-19 17:00:00,Crystal Palace,Aston Villa,-:-,Aston Villa,,,
+2023-08-14 21:00:00,Manchester United,Wolverhampton Wanderers,1:0,Manchester United,2023-08-19 18:30:00,4 days 21:30:00,117.5
+2023-08-19 18:30:00,Tottenham Hotspur,Manchester United,2:0,Manchester United,2023-08-26 16:00:00,6 days 21:30:00,165.5
+2023-08-26 16:00:00,Manchester United,Nottingham Forest,3:2,Manchester United,2023-09-03 17:30:00,8 days 01:30:00,193.5
+2023-09-03 17:30:00,FC Arsenal,Manchester United,3:1,Manchester United,2023-09-16 16:00:00,12 days 22:30:00,310.5
+2023-09-16 16:00:00,Manchester United,Brighton and Hove Albion,1:3,Manchester United,2023-09-23 21:00:00,7 days 05:00:00,173.0
+2023-09-23 21:00:00,FC Burnley,Manchester United,0:1,Manchester United,2023-09-30 16:00:00,6 days 19:00:00,163.0
+2023-09-30 16:00:00,Manchester United,Crystal Palace,0:1,Manchester United,2023-10-07 16:00:00,7 days 00:00:00,168.0
+2023-10-07 16:00:00,Manchester United,Brentford FC,2:1,Manchester United,2023-10-21 21:00:00,14 days 05:00:00,341.0
+2023-10-21 21:00:00,Sheffield United,Manchester United,1:2,Manchester United,2023-10-29 16:30:00,7 days 19:30:00,187.5
+2023-10-29 16:30:00,Manchester United,Manchester City,0:3,Manchester United,2023-11-04 13:30:00,5 days 21:00:00,141.0
+2023-11-04 13:30:00,FC Fulham,Manchester United,0:1,Manchester United,2023-11-11 16:00:00,7 days 02:30:00,170.5
+2023-11-11 16:00:00,Manchester United,Luton Town,1:0,Manchester United,2023-11-26 17:30:00,15 days 01:30:00,361.5
+2023-11-26 17:30:00,FC Everton,Manchester United,0:3,Manchester United,2023-12-02 21:00:00,6 days 03:30:00,147.5
+2023-12-02 21:00:00,Newcastle United,Manchester United,1:0,Manchester United,2023-12-06 21:15:00,4 days 00:15:00,96.25
+2023-12-06 21:15:00,Manchester United,FC Chelsea,2:1,Manchester United,2023-12-09 16:00:00,2 days 18:45:00,66.75
+2023-12-09 16:00:00,Manchester United,AFC Bournemouth,0:3,Manchester United,2023-12-17 17:30:00,8 days 01:30:00,193.5
+2023-12-17 17:30:00,Liverpool FC,Manchester United,0:0,Manchester United,2023-12-23 13:30:00,5 days 20:00:00,140.0
+2023-12-23 13:30:00,West Ham United,Manchester United,2:0,Manchester United,2023-12-26 21:00:00,3 days 07:30:00,79.5
+2023-12-26 21:00:00,Manchester United,Aston Villa,3:2,Manchester United,2023-12-30 18:30:00,3 days 21:30:00,93.5
+2023-12-30 18:30:00,Nottingham Forest,Manchester United,2:1,Manchester United,2024-01-14 17:30:00,14 days 23:00:00,359.0
+2024-01-14 17:30:00,Manchester United,Tottenham Hotspur,2:2,Manchester United,2024-02-01 21:15:00,18 days 03:45:00,435.75
+2024-02-01 21:15:00,Wolverhampton Wanderers,Manchester United,3:4,Manchester United,2024-02-04 15:00:00,2 days 17:45:00,65.75
+2024-02-04 15:00:00,Manchester United,West Ham United,3:0,Manchester United,2024-02-11 17:30:00,7 days 02:30:00,170.5
+2024-02-11 17:30:00,Aston Villa,Manchester United,1:2,Manchester United,2024-02-18 17:30:00,7 days 00:00:00,168.0
+2024-02-18 17:30:00,Luton Town,Manchester United,1:2,Manchester United,2024-02-24 16:00:00,5 days 22:30:00,142.5
+2024-02-24 16:00:00,Manchester United,FC Fulham,1:2,Manchester United,2024-03-03 16:30:00,8 days 00:30:00,192.5
+2024-03-03 16:30:00,Manchester City,Manchester United,3:1,Manchester United,2024-03-09 13:30:00,5 days 21:00:00,141.0
+2024-03-09 13:30:00,Manchester United,FC Everton,2:0,Manchester United,2024-03-30 21:00:00,21 days 07:30:00,511.5
+2024-03-30 21:00:00,Brentford FC,Manchester United,1:1,Manchester United,2024-04-04 21:15:00,5 days 00:15:00,120.25
+2024-04-04 21:15:00,FC Chelsea,Manchester United,4:3,Manchester United,2024-04-07 16:30:00,2 days 19:15:00,67.25
+2024-04-07 16:30:00,Manchester United,Liverpool FC,2:2,Manchester United,2024-04-13 18:30:00,6 days 02:00:00,146.0
+2024-04-13 18:30:00,AFC Bournemouth,Manchester United,2:2,Manchester United,2024-04-24 21:00:00,11 days 02:30:00,266.5
+2024-04-24 21:00:00,Manchester United,Sheffield United,4:2,Manchester United,2024-04-27 16:00:00,2 days 19:00:00,67.0
+2024-04-27 16:00:00,Manchester United,FC Burnley,1:1,Manchester United,2024-05-06 21:00:00,9 days 05:00:00,221.0
+2024-05-06 21:00:00,Crystal Palace,Manchester United,4:0,Manchester United,2024-05-12 17:30:00,5 days 20:30:00,140.5
+2024-05-12 17:30:00,Manchester United,FC Arsenal,0:1,Manchester United,2024-05-15 21:00:00,3 days 03:30:00,75.5
+2024-05-15 21:00:00,Manchester United,Newcastle United,3:2,Manchester United,2024-05-19 17:00:00,3 days 20:00:00,92.0
+2024-05-19 17:00:00,Brighton and Hove Albion,Manchester United,-:-,Manchester United,,,
+2023-08-13 17:30:00,FC Chelsea,Liverpool FC,1:1,FC Chelsea,2023-08-20 17:30:00,7 days 00:00:00,168.0
+2023-08-20 17:30:00,West Ham United,FC Chelsea,3:1,FC Chelsea,2023-08-25 21:00:00,5 days 03:30:00,123.5
+2023-08-25 21:00:00,FC Chelsea,Luton Town,3:0,FC Chelsea,2023-09-02 16:00:00,7 days 19:00:00,187.0
+2023-09-02 16:00:00,FC Chelsea,Nottingham Forest,0:1,FC Chelsea,2023-09-17 15:00:00,14 days 23:00:00,359.0
+2023-09-17 15:00:00,AFC Bournemouth,FC Chelsea,0:0,FC Chelsea,2023-09-24 15:00:00,7 days 00:00:00,168.0
+2023-09-24 15:00:00,FC Chelsea,Aston Villa,0:1,FC Chelsea,2023-10-02 21:00:00,8 days 06:00:00,198.0
+2023-10-02 21:00:00,FC Fulham,FC Chelsea,0:2,FC Chelsea,2023-10-07 16:00:00,4 days 19:00:00,115.0
+2023-10-07 16:00:00,FC Burnley,FC Chelsea,1:4,FC Chelsea,2023-10-21 18:30:00,14 days 02:30:00,338.5
+2023-10-21 18:30:00,FC Chelsea,FC Arsenal,2:2,FC Chelsea,2023-10-28 13:30:00,6 days 19:00:00,163.0
+2023-10-28 13:30:00,FC Chelsea,Brentford FC,0:2,FC Chelsea,2023-11-06 21:00:00,9 days 07:30:00,223.5
+2023-11-06 21:00:00,Tottenham Hotspur,FC Chelsea,1:4,FC Chelsea,2023-11-12 17:30:00,5 days 20:30:00,140.5
+2023-11-12 17:30:00,FC Chelsea,Manchester City,4:4,FC Chelsea,2023-11-25 16:00:00,12 days 22:30:00,310.5
+2023-11-25 16:00:00,Newcastle United,FC Chelsea,4:1,FC Chelsea,2023-12-03 15:00:00,7 days 23:00:00,191.0
+2023-12-03 15:00:00,FC Chelsea,Brighton and Hove Albion,3:2,FC Chelsea,2023-12-06 21:15:00,3 days 06:15:00,78.25
+2023-12-06 21:15:00,Manchester United,FC Chelsea,2:1,FC Chelsea,2023-12-10 15:00:00,3 days 17:45:00,89.75
+2023-12-10 15:00:00,FC Everton,FC Chelsea,2:0,FC Chelsea,2023-12-16 16:00:00,6 days 01:00:00,145.0
+2023-12-16 16:00:00,FC Chelsea,Sheffield United,2:0,FC Chelsea,2023-12-24 14:00:00,7 days 22:00:00,190.0
+2023-12-24 14:00:00,Wolverhampton Wanderers,FC Chelsea,2:1,FC Chelsea,2023-12-27 20:30:00,3 days 06:30:00,78.5
+2023-12-27 20:30:00,FC Chelsea,Crystal Palace,2:1,FC Chelsea,2023-12-30 13:30:00,2 days 17:00:00,65.0
+2023-12-30 13:30:00,Luton Town,FC Chelsea,2:3,FC Chelsea,2024-01-13 13:30:00,14 days 00:00:00,336.0
+2024-01-13 13:30:00,FC Chelsea,FC Fulham,1:0,FC Chelsea,2024-01-31 21:15:00,18 days 07:45:00,439.75
+2024-01-31 21:15:00,Liverpool FC,FC Chelsea,4:1,FC Chelsea,2024-02-04 15:00:00,3 days 17:45:00,89.75
+2024-02-04 15:00:00,FC Chelsea,Wolverhampton Wanderers,2:4,FC Chelsea,2024-02-12 21:00:00,8 days 06:00:00,198.0
+2024-02-12 21:00:00,Crystal Palace,FC Chelsea,1:3,FC Chelsea,2024-02-17 18:30:00,4 days 21:30:00,117.5
+2024-02-17 18:30:00,Manchester City,FC Chelsea,1:1,FC Chelsea,2024-03-02 16:00:00,13 days 21:30:00,333.5
+2024-03-02 16:00:00,Brentford FC,FC Chelsea,2:2,FC Chelsea,2024-03-11 21:00:00,9 days 05:00:00,221.0
+2024-03-11 21:00:00,FC Chelsea,Newcastle United,3:2,FC Chelsea,2024-03-30 16:00:00,18 days 19:00:00,451.0
+2024-03-30 16:00:00,FC Chelsea,FC Burnley,2:2,FC Chelsea,2024-04-04 21:15:00,5 days 05:15:00,125.25
+2024-04-04 21:15:00,FC Chelsea,Manchester United,4:3,FC Chelsea,2024-04-07 18:30:00,2 days 21:15:00,69.25
+2024-04-07 18:30:00,Sheffield United,FC Chelsea,2:2,FC Chelsea,2024-04-15 21:00:00,8 days 02:30:00,194.5
+2024-04-15 21:00:00,FC Chelsea,FC Everton,6:0,FC Chelsea,2024-04-23 21:00:00,8 days 00:00:00,192.0
+2024-04-23 21:00:00,FC Arsenal,FC Chelsea,5:0,FC Chelsea,2024-04-27 21:00:00,4 days 00:00:00,96.0
+2024-04-27 21:00:00,Aston Villa,FC Chelsea,2:2,FC Chelsea,2024-05-02 20:30:00,4 days 23:30:00,119.5
+2024-05-02 20:30:00,FC Chelsea,Tottenham Hotspur,2:0,FC Chelsea,2024-05-05 15:00:00,2 days 18:30:00,66.5
+2024-05-05 15:00:00,FC Chelsea,West Ham United,5:0,FC Chelsea,2024-05-11 18:30:00,6 days 03:30:00,147.5
+2024-05-11 18:30:00,Nottingham Forest,FC Chelsea,2:3,FC Chelsea,2024-05-15 20:45:00,4 days 02:15:00,98.25
+2024-05-15 20:45:00,Brighton and Hove Albion,FC Chelsea,1:2,FC Chelsea,2024-05-19 17:00:00,3 days 20:15:00,92.25
+2024-05-19 17:00:00,FC Chelsea,AFC Bournemouth,-:-,FC Chelsea,,,
+2023-08-13 15:00:00,Brentford FC,Tottenham Hotspur,2:2,Tottenham Hotspur,2023-08-19 18:30:00,6 days 03:30:00,147.5
+2023-08-19 18:30:00,Tottenham Hotspur,Manchester United,2:0,Tottenham Hotspur,2023-08-26 13:30:00,6 days 19:00:00,163.0
+2023-08-26 13:30:00,AFC Bournemouth,Tottenham Hotspur,0:2,Tottenham Hotspur,2023-09-02 16:00:00,7 days 02:30:00,170.5
+2023-09-02 16:00:00,FC Burnley,Tottenham Hotspur,2:5,Tottenham Hotspur,2023-09-16 16:00:00,14 days 00:00:00,336.0
+2023-09-16 16:00:00,Tottenham Hotspur,Sheffield United,2:1,Tottenham Hotspur,2023-09-24 15:00:00,7 days 23:00:00,191.0
+2023-09-24 15:00:00,FC Arsenal,Tottenham Hotspur,2:2,Tottenham Hotspur,2023-09-30 18:30:00,6 days 03:30:00,147.5
+2023-09-30 18:30:00,Tottenham Hotspur,Liverpool FC,2:1,Tottenham Hotspur,2023-10-07 13:30:00,6 days 19:00:00,163.0
+2023-10-07 13:30:00,Luton Town,Tottenham Hotspur,0:1,Tottenham Hotspur,2023-10-23 21:00:00,16 days 07:30:00,391.5
+2023-10-23 21:00:00,Tottenham Hotspur,FC Fulham,2:0,Tottenham Hotspur,2023-10-27 21:00:00,4 days 00:00:00,96.0
+2023-10-27 21:00:00,Crystal Palace,Tottenham Hotspur,1:2,Tottenham Hotspur,2023-11-06 21:00:00,10 days 00:00:00,240.0
+2023-11-06 21:00:00,Tottenham Hotspur,FC Chelsea,1:4,Tottenham Hotspur,2023-11-11 13:30:00,4 days 16:30:00,112.5
+2023-11-11 13:30:00,Wolverhampton Wanderers,Tottenham Hotspur,2:1,Tottenham Hotspur,2023-11-26 15:00:00,15 days 01:30:00,361.5
+2023-11-26 15:00:00,Tottenham Hotspur,Aston Villa,1:2,Tottenham Hotspur,2023-12-03 17:30:00,7 days 02:30:00,170.5
+2023-12-03 17:30:00,Manchester City,Tottenham Hotspur,3:3,Tottenham Hotspur,2023-12-07 21:15:00,4 days 03:45:00,99.75
+2023-12-07 21:15:00,Tottenham Hotspur,West Ham United,1:2,Tottenham Hotspur,2023-12-10 17:30:00,2 days 20:15:00,68.25
+2023-12-10 17:30:00,Tottenham Hotspur,Newcastle United,4:1,Tottenham Hotspur,2023-12-15 21:00:00,5 days 03:30:00,123.5
+2023-12-15 21:00:00,Nottingham Forest,Tottenham Hotspur,0:2,Tottenham Hotspur,2023-12-23 16:00:00,7 days 19:00:00,187.0
+2023-12-23 16:00:00,Tottenham Hotspur,FC Everton,2:1,Tottenham Hotspur,2023-12-28 20:30:00,5 days 04:30:00,124.5
+2023-12-28 20:30:00,Brighton and Hove Albion,Tottenham Hotspur,4:2,Tottenham Hotspur,2023-12-31 15:00:00,2 days 18:30:00,66.5
+2023-12-31 15:00:00,Tottenham Hotspur,AFC Bournemouth,3:1,Tottenham Hotspur,2024-01-14 17:30:00,14 days 02:30:00,338.5
+2024-01-14 17:30:00,Manchester United,Tottenham Hotspur,2:2,Tottenham Hotspur,2024-01-31 20:30:00,17 days 03:00:00,411.0
+2024-01-31 20:30:00,Tottenham Hotspur,Brentford FC,3:2,Tottenham Hotspur,2024-02-03 13:30:00,2 days 17:00:00,65.0
+2024-02-03 13:30:00,FC Everton,Tottenham Hotspur,2:2,Tottenham Hotspur,2024-02-10 16:00:00,7 days 02:30:00,170.5
+2024-02-10 16:00:00,Tottenham Hotspur,Brighton and Hove Albion,2:1,Tottenham Hotspur,2024-02-17 16:00:00,7 days 00:00:00,168.0
+2024-02-17 16:00:00,Tottenham Hotspur,Wolverhampton Wanderers,1:2,Tottenham Hotspur,2024-03-02 16:00:00,14 days 00:00:00,336.0
+2024-03-02 16:00:00,Tottenham Hotspur,Crystal Palace,3:1,Tottenham Hotspur,2024-03-10 14:00:00,7 days 22:00:00,190.0
+2024-03-10 14:00:00,Aston Villa,Tottenham Hotspur,0:4,Tottenham Hotspur,2024-03-16 18:30:00,6 days 04:30:00,148.5
+2024-03-16 18:30:00,FC Fulham,Tottenham Hotspur,3:0,Tottenham Hotspur,2024-03-30 16:00:00,13 days 21:30:00,333.5
+2024-03-30 16:00:00,Tottenham Hotspur,Luton Town,2:1,Tottenham Hotspur,2024-04-02 21:15:00,3 days 05:15:00,77.25
+2024-04-02 21:15:00,West Ham United,Tottenham Hotspur,1:1,Tottenham Hotspur,2024-04-07 19:00:00,4 days 21:45:00,117.75
+2024-04-07 19:00:00,Tottenham Hotspur,Nottingham Forest,3:1,Tottenham Hotspur,2024-04-13 13:30:00,5 days 18:30:00,138.5
+2024-04-13 13:30:00,Newcastle United,Tottenham Hotspur,4:0,Tottenham Hotspur,2024-04-28 15:00:00,15 days 01:30:00,361.5
+2024-04-28 15:00:00,Tottenham Hotspur,FC Arsenal,2:3,Tottenham Hotspur,2024-05-02 20:30:00,4 days 05:30:00,101.5
+2024-05-02 20:30:00,FC Chelsea,Tottenham Hotspur,2:0,Tottenham Hotspur,2024-05-05 17:30:00,2 days 21:00:00,69.0
+2024-05-05 17:30:00,Liverpool FC,Tottenham Hotspur,4:2,Tottenham Hotspur,2024-05-11 16:00:00,5 days 22:30:00,142.5
+2024-05-11 16:00:00,Tottenham Hotspur,FC Burnley,2:1,Tottenham Hotspur,2024-05-14 21:00:00,3 days 05:00:00,77.0
+2024-05-14 21:00:00,Tottenham Hotspur,Manchester City,0:2,Tottenham Hotspur,2024-05-19 17:00:00,4 days 20:00:00,116.0
+2024-05-19 17:00:00,Sheffield United,Tottenham Hotspur,-:-,Tottenham Hotspur,,,
